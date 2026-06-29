@@ -1,0 +1,31 @@
+{
+  "citations": [
+    "[openai.com](https://openai.com)",
+    "[techcrunch.com](https://techcrunch.com)",
+    "[forbes.com](https://www.forbes.com)",
+    "[blog.google](https://blog.google)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com)",
+    "[bwbusinessworld.com](https://www.bwbusinessworld.com)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com)",
+    "[axios.com](https://www.axios.com)"
+  ],
+  "design_plan": "rng=42; AIDA pass; hero width math ~1120px yields 2\u20133 lines; bento density verified via grid-auto-flow:dense; label sweep includes Folk, Orchids, Siri, ChatGPT, Gemini, Grok; button contrast checked on #0a0a0a vs #ffffff.",
+  "generated_at": "2026-06-29T20:57:49.167039+00:00",
+  "headline": "Super vs ChatGPT",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, editorial comparison for people choosing between Super and ChatGPT\u2014explaining what ChatGPT excels at and why Super is the sharper alternative for repeated computer-use workflows thanks to its computer-use cache."
+}
